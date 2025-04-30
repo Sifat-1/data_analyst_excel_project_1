@@ -87,7 +87,7 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 
    - Received: $37.3M
 
- - These loans yield lower returns and contribute heavily to losses (charged-off status).
+   - These loans yield lower returns and contribute heavily to losses (charged-off status).
 - **Charged-Off Loans Carry Higher Interest**:
     - Charged-off loans have the highest average interest rate (~15.10%), possibly reflecting higher-risk borrowers.
 
@@ -102,7 +102,7 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
  
   - MoM received growth: +15.8%
 
-- Indicates increased lending and collection efficiency over time.
+  - Indicates increased lending and collection efficiency over time.
 
 - **KPIs Provide Quick Executive View**:
   - Clear summary cards for applications, funding, received amount, interest rate, and DTI provide real-time insights to make fast, informed decisions.
