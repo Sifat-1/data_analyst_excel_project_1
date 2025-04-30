@@ -38,7 +38,7 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 - **Microsoft Excel** - (Pivot Tables, Slicers, Conditional Formatting, Data Validation, Charts, KPI Cards, Formulas, Cell Linking & Named Ranges)
 - **Excel/CSV** – as a data source  <a href="https://github.com/Sifat-1/Excel_Based-_Loan_Repayment_and_Risk_Assessment_Report/blob/main/financial_loan%20(1).csv">Dataset</a>
 - **Power Query** – for data cleaning and transformation
-  ## **Process**
+## **Process**
 - Imported raw loan dataset.
 - Verify data for any missing values and anomalies, remove duplicates, and blank entries. and sort out the same.
 - Made sure data is consistent and clean concerning data type, data format, and values used.
