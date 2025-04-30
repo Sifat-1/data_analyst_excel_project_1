@@ -30,5 +30,18 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 - **Microsoft Excel** - (Pivot Tables, Slicers, Conditional Formatting, Data Validation, Charts, KPI Cards, Formulas, Cell Linking & Named Ranges)
 - **Excel/CSV** – as a data source  <a href="https://github.com/Sifat-1/Excel_Based-_Loan_Repayment_and_Risk_Assessment_Report/blob/main/financial_loan%20(1).csv">Dataset</a>
 - **Power Query** – for data cleaning and transformation
+  ## **Process**
+- Imported raw loan dataset.
+- Verify data for any missing values and anomalies, remove duplicates and blank entries. and sort out the same.
+- Made sure data is consistent and clean concerning data type, data format, and values used.
+- Created additional calculated columns for: Loan classification (Good vs Bad), Month, Year, and MTD/MoM metrics ,Key financial ratios (DTI, interest rate).
+- Built Pivot Tables to group and summarize: Applications by grade and purpose, Funding vs repayment, Loan performance by status, KPI metrics by month and category.
+- Added visual elements for dashboards and  created two interactive dashboards based on summary & overview.
+- Used Slicers for dynamic filtering and ensured slicer filters and linked charts worked as intended.
+- Validated MTD and MoM logic across months.
+- Finalized dashboard layout.
 
-  
+
+
+
+y
