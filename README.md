@@ -4,7 +4,7 @@
 ## **Dataset used**
 - <a href="https://github.com/Sifat-1/Excel_Based-_Loan_Repayment_and_Risk_Assessment_Report/blob/main/financial_loan%20(1).csv">Dataset</a>
 ##  Overview
-This interactive dashboard provides a high-level summary of a bank's loan portfolio, with a strong focus on key performance indicators such as application volume, funding, repayment, and loan quality. It is designed to help stakeholders monitor portfolio health, assess financial performance, and identify trends or risk areas at a glance.The dashboard includes:Loan Volume & Financial Summary, MTD & MoM Growth Tracking, Loan Quality Breakdown, Loan Performance by Status, Filtering & Segmentation.
+This interactive dashboard provides a high-level summary of a bank's loan portfolio, with a strong focus on key performance indicators such as application volume, funding, repayment, and loan quality. It is designed to help stakeholders monitor portfolio health, assess financial performance, and identify trends or risk areas at a glance. The dashboard includes: Loan Volume & Financial Summary, MTD & MoM Growth Tracking, Loan Quality Breakdown, Loan Performance by Status, Filtering & Segmentation.
 
 ## **Questions (KPIs)**
 
@@ -32,9 +32,9 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 - **Power Query** – for data cleaning and transformation
   ## **Process**
 - Imported raw loan dataset.
-- Verify data for any missing values and anomalies, remove duplicates and blank entries. and sort out the same.
+- Verify data for any missing values and anomalies, remove duplicates, and blank entries. and sort out the same.
 - Made sure data is consistent and clean concerning data type, data format, and values used.
-- Created additional calculated columns for: Loan classification (Good vs Bad), Month, Year, and MTD/MoM metrics ,Key financial ratios (DTI, interest rate).
+- Created additional calculated columns for: Loan classification (Good vs Bad), Month, Year, and MTD/MoM metrics, Key financial ratios (DTI, interest rate).
 - Built Pivot Tables to group and summarize: Applications by grade and purpose, Funding vs repayment, Loan performance by status, KPI metrics by month and category.
 - Added visual elements for dashboards and  created two interactive dashboards based on summary & overview.
 - Used Slicers for dynamic filtering and ensured slicer filters and linked charts worked as intended.
@@ -46,7 +46,8 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 ![bank_loan summary](https://github.com/user-attachments/assets/76f5d592-8b55-4555-a495-cc9c3f433e22)
 
 ## **OVERVIEW**
-![OV](https://github.com/user-attachments/assets/8e3b7f1b-5327-4b98-97ac-b81a89b2bc6c)
+![ov1](https://github.com/user-attachments/assets/291a20c7-6e5d-4ae1-b49e-83f85ef3144a)
+
 
 
 
