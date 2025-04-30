@@ -41,7 +41,14 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 - Validated MTD and MoM logic across months.
 - Finalized dashboard layout.
 
+  ## **Dashboard**
+## **SUMMARY**
+![bank_loan summary](https://github.com/user-attachments/assets/76f5d592-8b55-4555-a495-cc9c3f433e22)
+
+## **OVERVIEW**
+![bank_loan Overview](https://github.com/user-attachments/assets/42b1a64d-611c-436f-a4a6-a5fa6aa764fd)
 
 
 
-y
+
+
