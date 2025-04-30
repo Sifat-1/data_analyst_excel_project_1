@@ -8,7 +8,7 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 
 ## **Questions (KPIs)**
 
-- What is the total number of loan applications,total funded and received amount?
+- What is the total number of loan applications, total funded, and the received amount?
 - How has the Month-to-Date (MTD) and Month-over-Month (MoM) performance changed?
 - What’s the percentage, total funded amount  & return ratio on good loans vs bad loans?
 - How many loans were fully paid vs. charged off?
