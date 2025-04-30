@@ -112,10 +112,10 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 - **DTI & Interest Rate Are Risk Indicators**:
   - Loans with higher DTI and interest rates show a stronger correlation with defaults.
  
-    ## **Final Conclusion:**
+## **Final Conclusion:**
 The Bank Loan Report Dashboard successfully delivers a clear, data-driven view of a bank's loan portfolio performance. Through visual KPIs, segmented analysis, and comparative metrics, it empowers stakeholders to monitor loan quality, funding trends, and repayment patterns. Identify and mitigate financial risks posed by bad loans through early indicators like high interest rates and DTI ratios. Recognize strong portfolio performance, with over 86% of loans being good and generating positive returns. Make informed decisions for credit policy, underwriting strategies, and operational improvements based on actionable insights. In conclusion, this Excel-based dashboard is a valuable analytical tool that helps financial institutions track, evaluate, and optimize loan performance while improving decision-making across lending operations.
 
-  ##  Contact
+##  Contact
 For questions or collaboration, feel free to reach out via [<a href="https://www.linkedin.com/in/sifat-nowshin-8a2759181/"> LinkedIn </a>](#).
 
 
