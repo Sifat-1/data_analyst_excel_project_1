@@ -5,6 +5,12 @@
 - <a href="https://github.com/Sifat-1/Excel_Based-_Loan_Repayment_and_Risk_Assessment_Report/blob/main/financial_loan%20(1).csv">Dataset</a>
 ##  Overview
 This interactive dashboard provides a high-level summary of a bank's loan portfolio, with a strong focus on key performance indicators such as application volume, funding, repayment, and loan quality. It is designed to help stakeholders monitor portfolio health, assess financial performance, and identify trends or risk areas at a glance. The dashboard includes: Loan Volume & Financial Summary, MTD & MoM Growth Tracking, Loan Quality Breakdown, Loan Performance by Status, Filtering & Segmentation.
+  ## **Dashboard**
+## **SUMMARY**
+![bank_loan summary](https://github.com/user-attachments/assets/76f5d592-8b55-4555-a495-cc9c3f433e22)
+
+## **OVERVIEW**
+![ov1](https://github.com/user-attachments/assets/291a20c7-6e5d-4ae1-b49e-83f85ef3144a)
 
 ## **Questions (KPIs)**
 
@@ -42,12 +48,7 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 - Validated MTD and MoM logic across months.
 - Finalized dashboard layout.
 
-  ## **Dashboard**
-## **SUMMARY**
-![bank_loan summary](https://github.com/user-attachments/assets/76f5d592-8b55-4555-a495-cc9c3f433e22)
 
-## **OVERVIEW**
-![ov1](https://github.com/user-attachments/assets/291a20c7-6e5d-4ae1-b49e-83f85ef3144a)
 
   ## **Interactive Dashboard in Excel**
   - <a href="https://github.com/Sifat-1/Excel_Based-_Loan_Repayment_and_Risk_Assessment_Report/blob/main/Finalcial_loan_Dashboard.xlsx">Project Link</a>
