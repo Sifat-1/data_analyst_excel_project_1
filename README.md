@@ -51,9 +51,9 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 
 
 
-  ## **Interactive Dashboard in Excel**
+## **Interactive Dashboard in Excel**
   - <a href="https://github.com/Sifat-1/Excel_Based-_Loan_Repayment_and_Risk_Assessment_Report/blob/main/Finalcial_loan_Dashboard.xlsx">Project Link</a>
-  ## Key Metrics & Visuals
+## Key Metrics & Visuals
 
 | Metric                    | Description                                      |
 |--------------------------|--------------------------------------------------|
