@@ -25,5 +25,10 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 - How can the bank optimize funding to reduce bad loans?
 - Which combinations of loan grade and purpose are riskiest or most profitable?
 
-- Dashboard Interaction <a href="https://github.com/Sifat-1/Excel_Based-_Loan_Repayment_and_Risk_Assessment_Report/tree/main/dashboard_all_pictures">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Sifat-1/Excel_Based-_Loan_Repayment_and_Risk_Assessment_Report/tree/main/dashboard_all_pictures">View Dashboards</a>
+## Tools & Technologies
+- **Microsoft Excel** - (Pivot Tables, Slicers, Conditional Formatting, Data Validation, Charts, KPI Cards, Formulas, Cell Linking & Named Ranges)
+- **Excel/CSV** – as a data source  <a href="https://github.com/Sifat-1/Excel_Based-_Loan_Repayment_and_Risk_Assessment_Report/blob/main/financial_loan%20(1).csv">Dataset</a>
+- **Power Query** – for data cleaning and transformation
+
   
