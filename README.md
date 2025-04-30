@@ -76,39 +76,39 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 ## Project Insights
 This dashboard provides actionable insights into the performance and risk profile of a bank’s loan portfolio:
  **Good Loans Dominate the Portfolio**
--86.18% of all loans are classified as Good Loans, showing strong credit health.
+   -86.18% of all loans are classified as Good Loans, showing strong credit health.
 
--Good loans account for 85 %+ of the total funded and received amounts.
+   -Good loans account for 85 %+ of the total funded and received amounts.
 
-## Bad Loans Have High Financial Risk
--Though only 13.82%, bad loans account for a significant funding vs repayment gap:
+### Bad Loans Have High Financial Risk
+Though only 13.82%, bad loans account for a significant funding vs repayment gap:
 
--Funded: $65.5M
+  -Funded: $65.5M
 
--Received: $37.3M
+  -Received: $37.3M
 
 These loans yield lower returns and contribute heavily to losses (charged-off status).
-## Charged-Off Loans Carry Higher Interest
+### Charged-Off Loans Carry Higher Interest
 Charged-off loans have the highest average interest rate (~15.10%), possibly reflecting higher-risk borrowers.
 
 Despite high interest, they fail to recover the principal.
 
-## Bad Loans Show Poor Return on Investment
+###  Bad Loans Show Poor Return on Investment
 The received amount is less than the amount funded for bad loans, indicating a net loss.
 
 Effective screening is critical to reduce this loss ratio.
-## Month-over-Month Growth Is Positive
--MoM funded growth: +13%
+### Month-over-Month Growth Is Positive
+  -MoM funded growth: +13%
 
--MoM received growth: +15.8%
+  -MoM received growth: +15.8%
 
 Indicates increased lending and collection efficiency over time.
 
-## KPIs Provide Quick Executive View
+###  KPIs Provide Quick Executive View
 Clear summary cards for applications, funding, received amount, interest rate, and DTI provide real-time insights.
 
 Helps leadership make fast, informed decisions.
-## DTI & Interest Rate Are Risk Indicators
+### DTI & Interest Rate Are Risk Indicators
 Loans with higher DTI and interest rates show a stronger correlation with defaults.
 
 These metrics should be weighted in credit risk models.
