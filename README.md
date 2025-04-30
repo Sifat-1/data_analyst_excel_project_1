@@ -98,9 +98,9 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 
    - Effective screening is critical to reduce this loss ratio.
 - **Month-over-Month Growth Is Positive**:
-    -MoM funded growth: +13%
+  -MoM funded growth: +13%
  
-    -MoM received growth: +15.8%
+  -MoM received growth: +15.8%
 
 - Indicates increased lending and collection efficiency over time.
 
