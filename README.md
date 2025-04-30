@@ -26,6 +26,7 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 - Which combinations of loan grade and purpose are riskiest or most profitable?
 
 - Dashboard Interaction <a href="https://github.com/Sifat-1/Excel_Based-_Loan_Repayment_and_Risk_Assessment_Report/tree/main/dashboard_all_pictures">View Dashboards</a>
+
 ## Tools & Technologies
 - **Microsoft Excel** - (Pivot Tables, Slicers, Conditional Formatting, Data Validation, Charts, KPI Cards, Formulas, Cell Linking & Named Ranges)
 - **Excel/CSV** – as a data source  <a href="https://github.com/Sifat-1/Excel_Based-_Loan_Repayment_and_Risk_Assessment_Report/blob/main/financial_loan%20(1).csv">Dataset</a>
@@ -47,6 +48,10 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 
 ## **OVERVIEW**
 ![ov1](https://github.com/user-attachments/assets/291a20c7-6e5d-4ae1-b49e-83f85ef3144a)
+
+  ## **Interactive Dashboard in Excel**
+  - <a href="https://github.com/Sifat-1/Excel_Based-_Loan_Repayment_and_Risk_Assessment_Report/blob/main/Finalcial_loan_Dashboard.xlsx">Project Link</a>
+  
 
 
 
