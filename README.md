@@ -63,6 +63,16 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 | Average DTI              | 13.33% (monthly trend shown)                     |
 | Good Loan Ratio          | 86.18% of total loans                            |
 | Bad Loan Ratio           | 13.82% of total loans                            |
+##  Dashboard Features
+
+- **Loan Classification**: Donut charts display the percentage share of Good vs Bad loans.
+- **KPI Cards**: Highlight MTD (Month-to-Date) and MoM (Month-over-Month) changes.
+- **Loan Status Breakdown**: Fully Paid, Current, and Charged Off.
+- **Comparison Bars**: Funded vs Received Amounts, Interest Rate, DTI.
+- **Interactive Filters**: 
+  - Loan Grade (A to G)
+  - Loan Purpose (Car, Credit Card, Home Improvement, etc.)
+
 
 
   
