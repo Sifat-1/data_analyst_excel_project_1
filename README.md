@@ -52,6 +52,20 @@ This interactive dashboard provides a high-level summary of a bank's loan portfo
 
   ## **Interactive Dashboard in Excel**
   - <a href="https://github.com/Sifat-1/Excel_Based-_Loan_Repayment_and_Risk_Assessment_Report/blob/main/Finalcial_loan_Dashboard.xlsx">Project Link</a>
+  ## Key Metrics & Visuals
+
+| Metric                    | Description                                      |
+|--------------------------|--------------------------------------------------|
+| Total Loan Applications  | 38.6K applications processed                     |
+| Total Funded Amount      | $435.8M funded across all loans                  |
+| Total Amount Received    | $473.1M repaid                                   |
+| Average Interest Rate    | 12.05% (monthly trend shown)                     |
+| Average DTI              | 13.33% (monthly trend shown)                     |
+| Good Loan Ratio          | 86.18% of total loans                            |
+| Bad Loan Ratio           | 13.82% of total loans                            |
+
+
+  
   
 
 
